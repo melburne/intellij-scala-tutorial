@@ -1,0 +1,46 @@
+type: edu
+files:
+- name: src/DefinitionsAndEvaluation.scala
+  visible: true
+  placeholders:
+  - offset: 0
+    length: 7
+    placeholder_text: // TODO
+    dependency:
+      lesson: Definitions and Evaluation
+      task: Naming Things
+      file: src/DefinitionsAndEvaluation.scala
+      placeholder: 1
+      is_visible: false
+    initial_state:
+      length: 7
+      offset: 0
+    initialized_from_dependency: false
+    selected: false
+    status: Solved
+    encrypted_possible_answer: NDln6qyQcTDkOxLgJGYWuQ==
+  - offset: 146
+    length: 31
+    placeholder_text: // reuse the square method here
+    initial_state:
+      length: 31
+      offset: 124
+    initialized_from_dependency: false
+    selected: false
+    status: Solved
+    encrypted_possible_answer: jxZiF8iDFGyR0Sd6zPpfaA==
+  encrypted_text: EhGnQ6Vo67Ls1whvhPIG5D7iRs8gWR9RewJpXwU3Yueg8jhyTBWezrHftlApbZMrQ+alR0SiM7aLDVb+8h35EGq2oAwW6gq9HWgBTj8eBqGlwZCJdt/Kber9kzpXLCHg6efiZsgXqeDMogHzXvin0L66yx3OpgxbdMOnpKl2AonAWi7K141SRdbjEqOEJooce2bSSSPaUjE9irUR+bkZ8G8A/I1t3oR/57y7dq0X1Aadv9wc357JdNUtzOaeoZq0559tKsoyiMx/2J4SVzgUIo9cecIlQCZ2QKgtZMukInsEkPl6r6NZGVb6qjsoKQ9P
+  learner_created: false
+- name: test/Test.scala
+  visible: false
+  encrypted_text: xn0/4d0Q9hMIRxVa/IDuvuU4X+G56yM9IZDVutl6r4GO3BICZF0WoUkUP6ExRNN+JoIKCJJdDrpU7U2leen02QkLi/gKtsc4g/lKjyA9syzMm0ZboBKMtc2OJ0VM8T66tm/7EWkIwioPWUlUpsRQe/BTEPgE/ncZKu+mUEJCjyMRXFn5YlhQinnHqkq0L5/yvcpVzOu2C+xCnoa7U1dDIf0q/IeQChGtAMnO8MARy5r3CSDTd0jb8/F6ItUHXYGM1uKg9XX1PE4KYCM8EI8DhiEKqe1N+CM8/LJnJPvgczDdnTSsZ+omiBx51VJ/iCjXj64HGvLv7kZ4RXhZaT5caO6LWP+dKA3rbFIADhk1DyNEXrH7+JxmI2EbwAWBPvug7/q8zD/06aDJr1GO63LhtM1ckywv10yCUxkrOa1AuXNirEO+tOzJZsxOX3ssqtoVeI3U4DzyeFOEdY7SG+gvmhM9NVgs3EkPhaxDX917mYWb1SqjuFxpMSDIED7HJwBGG+kyWjJXn2vBjJTjeg+zuE5uHU5OmIIznFST6/XJbuY=
+  learner_created: false
+- name: build.sbt
+  visible: false
+  encrypted_text: /1xTAEIXgkDA+HR46qu7RWiCQ6TErtfzWaZBcUOUBtnrQ3mVQA2MdrLd2daypX84M7dWidJxBw6niVetIHKF8Ekpjnk4hz90awKzpwB+rRcpRX8CwVpkUbiWCX6qFnBYYIiA05ckiOyIBf3oZOaJyCWnr02pJdapXHkt3dNoGw8W8bI4gNbkx8qVkMcnzHQ6Ax8aubl/qEwhZsGPJAxAP4LGD9pg5wrnk8aD1XDkU70mx2pmZNrgdurqM7yCvbcU5DRT66lOVf6g25BCJzvjt001xs0ZA0meBOVlx93ErNufRxM94n1aMToDHBoMA9coBYP8tjNNJZPoowhhu1sC3A==
+  learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: Wed, 28 Jul 2021 14:26:38 UTC
+record: -1

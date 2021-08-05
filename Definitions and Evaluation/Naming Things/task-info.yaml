@@ -1,0 +1,40 @@
+type: edu
+files:
+- name: src/DefinitionsAndEvaluation.scala
+  visible: true
+  placeholders:
+  - offset: 0
+    length: 53
+    placeholder_text: // Complete the method evaluating the area of a disk
+    initial_state:
+      length: 52
+      offset: 0
+    initialized_from_dependency: false
+    selected: true
+    status: Solved
+    encrypted_possible_answer: BPrPxsoPO0ddRfXxWyDgbA==
+  - offset: 121
+    length: 53
+    placeholder_text: // the expression lacks the square of the radius
+    initial_state:
+      length: 48
+      offset: 120
+    initialized_from_dependency: false
+    selected: false
+    status: Solved
+    encrypted_possible_answer: G97UoodIbAZtbkhJF1i5Gg==
+  encrypted_text: KOKP5k5igqVqzgXM1OeOdA64Htk3UsWl58vgdGSWxCMZV00I9rFyK+LI54uKJBD8hXnjAulhCQUduJ6v3RltMNgiFtJzRCySm+n/lVgu6b2sjoLwewW+ORvNEl1HPQXsJIOVuEt4EX27QPJjcG2lWKxd0NcD3YanJXpG7i6MtIHZLwDMpBPMTT/hSTsdt7aqb3W7eGhNZDbSksvConjKLIM5eajwqB7CD5Tt0hx8pctpYtfZVm5qqWDCiWibnJQLwxf1W/noJjSXYds8lR3cZWTj4r6eC7lp0Gt0U87DJ6T6rRbJsQMzKkGqF7/huWvh
+  learner_created: false
+- name: test/Test.scala
+  visible: false
+  encrypted_text: O1IRlHi2fciJ3j7Tu/p5owe22BsaoZOIfylscKnY8Gapi4F1W/zUnZ9NMM08N7c3T+Fa9A6cf9SR2S/LsNSNLgEZXx1+4UpPIH2sqBwPg0KkICnDn2rRg4DCb9JIK484SHLPg/Kov4A8kdKNBeaq4HopU0EaXm1CeFEGXyeJgkws3bGMdEnrhZiBZOnNLirc8RdNnlLYZjUEWZ4wEcvXC/8B4PD2VC13uXWwge913WaNHtCpL8p8E3imHhh99lFlOgr4pydnLEkjbWizkIt3dAHKJcFxYO6kf4UwyCPzNH9ePG2AtXe5MP272BHipYwp
+  learner_created: false
+- name: build.sbt
+  visible: false
+  encrypted_text: /1xTAEIXgkDA+HR46qu7RVETV/vQ0aOmHD1XS9QIbcJxU344zT3CcnPYAyfp6PlbXzx3mnMj6HvvbiaAfMtvE0uIOq4f2Q25S1oNEMtTDiJbS4KYF8i9kkgNXS40gkyM38hLqC0nbfSVi6iloLG6KYhJ5rHh41D3KkH8NV0owtgEQdhOhW3bol9KR2Jr6bS0IvfjT6ld2nhY3DgpIa9nH352202iqZ8yBXWe+nFYGdnKuCrGwAIf/9izJG5t63AnWX8Eq3r7avffBp4k9VqAno2bzix/WFsKfzt+6N+oGWXjfVhsWDQ1UFdwkeIi8Dfs9GRHF4Lb3Vs1Elfjnb5BOQ==
+  learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: Wed, 28 Jul 2021 14:25:43 UTC
+record: -1
